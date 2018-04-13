@@ -4,10 +4,9 @@ using namespace std;
 
 int main()
 {
-	cout << "±¸±¸´Ü Ãâ·Â" << endl;
+	cout << "Â±Â¸Â±Â¸Â´Ãœ ÃƒÃ¢Â·Ã‚" << endl;
 	for (int i = 1; i < 10; i++) {
 		cout << i << " * " << i << " = " << i * i << endl;
 	}
-	system("pause");
 	return 0;
 }
